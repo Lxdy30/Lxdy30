@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing it.
+- 🤔 &nbsp; Focus in java.
 - 🎓 &nbsp; Studying Computer Science by myself.
 - 🌱 &nbsp; Learning more about Cloud System
 
