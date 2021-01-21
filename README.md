@@ -4,8 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions .
 - 🎓 &nbsp; Studying Computer Science by myself.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Cloud System
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
