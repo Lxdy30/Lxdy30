@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; idk.
-- 🎓 &nbsp; Studying Computer Science by myself.
-- 🌱 &nbsp; Learning more about Cloud System
+- 🎓 &nbsp; Studying Computer Science.
+- 🌱 &nbsp; idk.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
